@@ -15,6 +15,7 @@ First, you need to clone the project to your local machine. Open a terminal (Com
 ```bash
 git clone https://github.com/FoxlyTenTen/SmartPlant.git
 cd smartplant
+npm install
 npx expo start
 ```
 ### Run the App
@@ -140,8 +141,6 @@ An intelligent assistant that retrieves user history and combines it with curren
 - Add a recommendation marketplace for eco-friendly pesticides.
 - Implement a community feature for farmers to share insights and best practices.
 - Incorporate predictive analytics for long-term disease and weather trends.
-- Expand support to more plant species and regions.
-- Integrate AI feedback for more accurate diagnosis over time.
 
 ---
 
