@@ -8,7 +8,15 @@ SmartPlant is an AI-powered mobile app designed to help users detect and treat p
 
 This guide will walk you through setting up the **SmartPlant** app on your machine using **Expo Go**. 
 
-### Clone the Repository 
+### Scan QR Code (Option 1 - Fastest Way + Recommended) 
+
+Download the Expo Go app from the Play Store. Scan the QR code below directly using the Expo Go app (Android).
+For iOS, open the Expo Go app, go to **Settings**, allow all required permissions, and then scan the QR code using your device’s native camera app.
+<p align="center">
+  <img src="./assets/images/App_Submission_Preview.jpg" alt="QR CODE" width="200"/>
+</p>
+
+### Clone the Repository (Option 2)
 
 First, you need to clone the project to your local machine. Open a terminal (Command Prompt, PowerShell, or Terminal on macOS/Linux) and run the following command:
 
@@ -25,14 +33,6 @@ npx expo start
 **Option 2** – Press a in the terminal to launch the Android emulator.
 
 **Option 3** – Press i in the terminal to launch the iOS emulator.
-
-**Option 4 (Fastest Way + Recommended)**
-Download the Expo Go app from the Play Store. Scan the QR code below directly using the Expo Go app (Android).
-For iOS, open the Expo Go app, go to **Settings**, allow all required permissions, and then scan the QR code using your device’s native camera app.
-<p align="center">
-  <img src="./assets/images/App_Submission_Preview.jpg" alt="QR CODE" width="200"/>
-</p>
-
 
 ## 🔗 Links
 
