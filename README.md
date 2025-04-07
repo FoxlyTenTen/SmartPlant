@@ -20,15 +20,19 @@ npx expo start
 ```
 ### Run the App
 
-Option 1 – Download the Expo Go app from the Play Store. Make sure your computer and device are on the same local network. Scan the QR code provided in the terminal and boom—you can preview the app!
+**Option 1** – Download the Expo Go app from the Play Store. Make sure your computer and device are on the same local network. Scan the QR code provided in the terminal and boom—you can preview the app!
 
-Option 2 – Press a in the terminal to launch the Android emulator.
+**Option 2** – Press a in the terminal to launch the Android emulator.
 
-Option 3 – Press i in the terminal to launch the iOS emulator.
+**Option 3** – Press i in the terminal to launch the iOS emulator.
 
-Option 4 (Fastest Way + Recommended) – Download the Expo Go app from the Play Store. Scan the QR code below directly using the Expo Go app (Android).
-For iOS, open the Expo Go app, go to Settings, allow all required permissions, and then scan the QR code using your device’s native camera app.
-![QR CODE](./assets/images/App_Submission_Preview.jpg)
+**Option 4 (Fastest Way + Recommended)**
+Download the Expo Go app from the Play Store. Scan the QR code below directly using the Expo Go app (Android).
+For iOS, open the Expo Go app, go to **Settings**, allow all required permissions, and then scan the QR code using your device’s native camera app.
+<p align="center">
+  <img src="./assets/images/App_Submission_Preview.jpg" alt="QR CODE" width="200"/>
+</p>
+
 
 ## 🔗 Links
 
