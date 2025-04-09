@@ -36,8 +36,8 @@ npx expo start
 
 ## 🔗 Links
 
-- 📹 [Demo Video]([https://your-demo-link.com](https://youtu.be/qvqbWoNrX4k?feature=shared))
-- 🎨 [Figma Prototype]([https://your-figma-link.com](https://www.figma.com/proto/CIm36rip9n48e1lAOYB4ow/SmartPlant?node-id=0-1&t=af9HSDsSEVhhfRce-1)) 
+- 📹 [Demo Video](https://youtu.be/qvqbWoNrX4k?feature=shared)  
+- 🎨 [Figma Prototype](https://www.figma.com/proto/CIm36rip9n48e1lAOYB4ow/SmartPlant?node-id=0-1&t=af9HSDsSEVhhfRce-1)
 ---
 
 ## 📚 Table of Contents
