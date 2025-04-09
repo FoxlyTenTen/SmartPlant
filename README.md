@@ -48,6 +48,7 @@ npx expo start
 - [Key Features](#key-features)
 - [Technology Architecture](#technology-architecture)
 - [SDG Alignment](#sdg-alignment)
+- [User Feedback](#user-feedback)
 - [Future Prospect](#future-prospect)
 - [Nature of this Project](#nature-of-this-project)
 
@@ -148,6 +149,19 @@ An intelligent assistant that retrieves user history and combines it with curren
 
 ---
 
+## 🗣️ User Feedback
+
+👩‍🌾 Nur Aminah
+Nur Aminah binti Suhaib, a 45-year-old local tomato farmer, shared that the app should provide access to the latest news and trends. This would help her develop more efficient plans for her crops.
+
+🥬 Zainab Abidin
+Zainab binti Abidin, a 52-year-old local vegetable farmer from Kok Lanas, suggested that the app include user geolocation. She finds it time-consuming to manually search for her current location, especially due to her age.
+
+🌴 Muhammad Naqib
+Muhammad Naqib bin Mustapha, a 25-year-old local oil palm farmer, felt that the app interface looks too basic and unattractive. He recommended a more refreshed layout with a modern design to improve the overall user experience.
+
+---
+
 ## 🔮 Future Prospect
 
 - Add a recommendation marketplace for eco-friendly pesticides.
@@ -158,21 +172,14 @@ An intelligent assistant that retrieves user history and combines it with curren
 
 ## 📝 Nature of this Project
 
-Copyright © 2025, SmartPlant  
-All rights reserved.
-
 **Project Title:** SmartPlant  
+**Team Name:** AX10S
 **Hackathon:** KitaHack 2025  
 **Team Members:** Mohd Adli Syukri bin Noraman, Muhammad Irfan Azraei bin Izhar Kamil, Muhammad Adli bin Rosdan, Muhammad Haziq bin Abdullah  
-**Institution:** Universiti Tenaga Nasional (UNITEN) & Asia Pacific University (APU)
+**Institution:** Universiti Tenaga Nasional (UNITEN) 
 
 ### 📚 Nature of Use  
-This project is a submission for the **KitaHack 2025 Hackathon**, intended exclusively for educational and competition purposes. The listed team members are students from **UNITEN** and **APU**, and the project reflects the academic and innovative effort made during the hackathon.
+This project is a submission for the **KitaHack 2025 Hackathon**, intended exclusively for educational and competition purposes. The listed team members are students from **UNITEN**, and the project reflects the academic and innovative effort made during the hackathon.
 
-### ⛔ Restrictions on Use  
-This project is **not intended for commercial use**. Unauthorized reproduction, distribution, modification, or commercial exploitation of any part of this work is strictly prohibited without prior written permission from the copyright holders.
-
-### 🎓 For Educational and Competition Use Only  
-All content and technologies used in this project are made available solely for **learning, research, academic evaluation**, and **hackathon participation**. Use beyond these stated purposes, especially for profit or commercial gain, is not allowed.
 
 ---
