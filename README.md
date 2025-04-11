@@ -151,12 +151,21 @@ An intelligent assistant that retrieves user history and combines it with curren
 ## 🗣️ User Feedback
 
 👩‍🌾 Nur Aminah
+<p>
+  <img src="./assets/images/pic1.jpg" alt="User 1" width="200"/>
+</p>
 Nur Aminah binti Suhaib, a 45-year-old local tomato farmer, shared that the app should provide access to the latest news and trends. This would help her develop more efficient plans for her crops.
 
 🥬 Zainab Abidin
+<p>
+  <img src="./assets/images/pic2.jpg" alt="User 2" width="200"/>
+</p>
 Zainab binti Abidin, a 52-year-old local vegetable farmer from Kok Lanas, suggested that the app include user geolocation. She finds it time-consuming to manually search for her current location, especially due to her age.
 
 🌴 Muhammad Naqib
+<p>
+  <img src="./assets/images/pic4.jpg" alt="User 3" width="200"/>
+</p>
 Muhammad Naqib bin Mustapha, a 25-year-old local oil palm farmer, felt that the app interface looks too basic and unattractive. He recommended a more refreshed layout with a modern design to improve the overall user experience.
 
 ---
