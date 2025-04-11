@@ -38,6 +38,7 @@ npx expo start
 
 - 📹 [Demo Video](https://youtu.be/qvqbWoNrX4k?feature=shared)  
 - 🎨 [Figma Prototype](https://www.figma.com/proto/CIm36rip9n48e1lAOYB4ow/SmartPlant?node-id=0-1&t=af9HSDsSEVhhfRce-1)
+- 📹 [Canva Slides](https://www.canva.com/design/DAGkHyo35R4/ZN5O2ptOS7o0q_-2EoizKg/edit?utm_content=DAGkHyo35R4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## 📚 Table of Contents
