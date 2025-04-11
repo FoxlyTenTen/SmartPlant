@@ -152,9 +152,10 @@ An intelligent assistant that retrieves user history and combines it with curren
 
 👩‍🌾 Nur Aminah
 <p>
-  <img src="./assets/images/pic1.jpg" alt="User 1" width="200"/>
+  <img src="./assets/images/pic3.jpg" alt="User 1" width="200"/>
 </p>
 Nur Aminah binti Suhaib, a 45-year-old local tomato farmer, shared that the app should provide access to the latest news and trends. This would help her develop more efficient plans for her crops.
+
 
 🥬 Zainab Abidin
 <p>
